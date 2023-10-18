@@ -54,6 +54,6 @@ To get started with DALL-E Clone, follow these steps:
     * Frontend: `cd client;
                  npm start`
     * Backend: `cd server;
-                npm server.js`
+                npm index.js`
 
 Access the application by opening a web browser and navigating to the provided URL (usually http://localhost:3000).
