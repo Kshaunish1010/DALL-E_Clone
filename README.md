@@ -44,22 +44,16 @@ To get started with DALL-E Clone, follow these steps:
   * Install the Node.js dependencies: `npm install`
 
 
-4.Set up a MongoDB database and configure the necessary environment variables for the server.
+4. Set up a MongoDB database and configure the necessary environment variables for the server.
 
-To start the servers:
+5. Obtain an API key for the OpenAI API and configure it in the project to enable AI-powered image generation.
+
+6. To start the servers:
 
 * Start the frontend and backend servers separately using the following commands in their respective directories:
     * Frontend: `cd client;
                  npm start`
     * Backend: `cd server;
                 npm server.js`
-
-To access the application:
-
-* Open a web browser and navigate to the provided URL (usually `http://localhost:3000`).
-Obtain an API key for the OpenAI API and configure it in the project to enable AI-powered image generation.
-
-Start the frontend and backend servers separately using the following commands in their respective directories:
-
 
 Access the application by opening a web browser and navigating to the provided URL (usually http://localhost:3000).
